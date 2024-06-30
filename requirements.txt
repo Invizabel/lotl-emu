@@ -1,9 +1,0 @@
-# Arch
-sudo pacman -S sdl2_ttf
-
-# Debain
-sudo apt update
-sudo apt install libsdl2-ttf-dev
-
-# Fedora
-sudo dnf install SDL2_ttf-devel
